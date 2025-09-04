@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/5cef4f6e-6834-4035-aab8-a17294afc804) 
-
+![Image](https://github.com/user-attachments/assets/50f2ce28-8b47-49d5-8bf6-e20fb22878de)
 # About Me
 
 My name is <b>Kushagra Verma</b>. I am currently pursuing a <i>Bachelor's degree in Computer Science and Engineering</i> at <i><b>Lovely Professional University</b></i>. I have always been fascinated by the field of technology and innovation. Even though I am a novice in coding, I opted for engineering because I really like creating projects and cracking tough problems. <br><br>
