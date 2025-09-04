@@ -1,4 +1,4 @@
-<img src= "https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width ="800" height = "300"/>
+<img src= "https://in.pinterest.com/pin/2533343531886377/" width ="800" height = "300"/>
 </a>
 
 # About Me
