@@ -28,6 +28,6 @@ After 4 years, I would already be familiar with
 </a>thekushagraverma@gmail.com</a></div><br>
 
 <div>That's it—I’ll update my README to include upcoming projects.</div> 
-   
+   ![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif
 ### End                 
-                                                    
+                                               
