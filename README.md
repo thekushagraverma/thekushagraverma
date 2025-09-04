@@ -1,4 +1,5 @@
-<img src= "https://lottiefiles.com/free-animation/logo-invi-DmppKpV9dY" width ="800" height = "300"/>
+<img src= "![Image](https://github.com/user-attachments/assets/96f2d787-fdfd-44b4-811a-bc1fd1c03cc6)
+" width ="800" height = "300"/>
 
 # About Me
 
