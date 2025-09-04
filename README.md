@@ -1,4 +1,4 @@
-<img https://res.cloudinary.com/dqhfji91k/image/upload/0a9f74a9f6a32d14b298cc078660724c_jnzokl width ="800" height = "300"/>
+<img src= "https://res.cloudinary.com/dqhfji91k/image/upload/0a9f74a9f6a32d14b298cc078660724c_jnzokl" width ="800" height = "300"/>
 </a>
 
 # About Me
