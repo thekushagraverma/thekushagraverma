@@ -1,6 +1,4 @@
-<img src= "https://in.pinterest.com/pin/2533343531886377/" width ="800" height = "300"/>
-<a href="https://dribbble.com/shots/5664757-Car-Animation" rel="noreferrer nofollow">https://dribbble.com/shots/5664757-Car-Animation</a>
-</a>
+<img src= "https://lottiefiles.com/free-animation/logo-invi-DmppKpV9dY" width ="800" height = "300"/>
 
 # About Me
 
