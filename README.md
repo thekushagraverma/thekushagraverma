@@ -1,4 +1,4 @@
-<img src= "https://res.cloudinary.com/dqhfji91k/video/upload/v1757017474/Samurai_VS_Dragon_ujmkt4.mp4" width ="800" height = "300"/>
+<img src= "https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif" width ="800" height = "300"/>
 </a>
 
 # About Me
