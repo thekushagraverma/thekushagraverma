@@ -13,23 +13,19 @@ After 4 years, I would already be familiar with
 
 
 ## Social Media 
-<div><a href="https://instagram.com/_itz.ayx">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="13" alt="Instagram"/>
-</a>
-<a href="https://instagram.com/_itz.ayx">   _itz.ayx</a></div>
-<div><a href="https://www.linkedin.com/in/typeayush">
+<div><a href="https://www.linkedin.com/in/thekushagraverma/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="13" alt="LinkedIn"/>
 </a>
-<a href="https://www.linkedin.com/in/typeayush/">typeayush</a></div>
-<div><a href="https://x.com/type_ayush">
+<a href="https://www.linkedin.com/in/thekushagraverma/">Kushagra Verma</a></div>
+<div><a href="https://x.com/thekushagrav">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="13" alt="X"/>
 </a>
-<a href="https://x.com/type_ayush">type_ayush</a></div>
+<a href="https://x.com/thekushagrav">TheKushagraVerma</a></div><br>
 
-#### Email
+<div><b>Email</b></div>
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="13" alt="Gmail"/>
-</a>ayushjain.9f@gmail.com</a></div><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="13" alt="Gmail"/> 
+</a>thekushagraverma@gmail.com</a></div><br>
 
 <div>That's it—I’ll update my README to include upcoming projects.</div> 
    
