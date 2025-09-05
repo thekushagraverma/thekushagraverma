@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/5cef4f6e-6834-4035-aab8-a17294afc804) 
 <h1>Hii there👋 I'm Kushagra Verma </h1>
 💫 About Me:
 I'm Currently pursuing B.Tech: Computer Science and Engineering.<br>
